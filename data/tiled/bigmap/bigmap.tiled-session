@@ -1,0 +1,468 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tmx/big_map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "tmx/big_map.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.33,
+            "selectedLayer": 20,
+            "viewCenter": {
+                "x": 5927.272727272727,
+                "y": 930.3030303030303
+            }
+        },
+        "tmx/map.tmx": {
+            "scale": 0.015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 12480,
+                "y": 14880
+            }
+        },
+        "tmx/newmap.tmx": {
+            "expandedObjectLayers": [
+                13
+            ],
+            "scale": 0.33,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 1284.8484848484848,
+                "y": 662.1212121212121
+            }
+        },
+        "tmx/test.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.5118124999999999,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 799.1207717670047,
+                "y": 800.0976920258885
+            }
+        },
+        "tmx/test64.tmx": {
+            "expandedObjectLayers": [
+                4,
+                23
+            ],
+            "scale": 0.75,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 3180,
+                "y": 3500
+            }
+        },
+        "tsx/64Campfire.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64Well1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64Well2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64Wooden2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64Wooden5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64chest1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64house1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64house2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64house3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64house4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64house5.tsx": {
+            "scaleInDock": 1
+        },
+        "tsx/64house6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64house7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64house8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64newshop1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64rock14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64rock18.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64rock19.tsx": {
+            "scaleInDock": 1
+        },
+        "tsx/64rock4.tsx": {
+            "scaleInDock": 1
+        },
+        "tsx/64rock6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64rock7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64rock8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64rock9.tsx": {
+            "scaleInDock": 1
+        },
+        "tsx/64shop2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64shop3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64shop4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64tent1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64tree1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64tree2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64tree3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64tree4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64tree5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/64tree6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Tile.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 3
+        },
+        "tsx/Tile_small.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 8
+        },
+        "tsx/Well1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Well2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Wooden1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Wooden2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Wooden3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Wooden4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Wooden5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Wooden6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/bigTile.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tsx/chest1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/chest2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/house8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock10.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock11.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock12.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock13.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock15.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock17.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock18.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock19.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/rock9.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/scriptio.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/scriptio64.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/shop1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/shop2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/shop3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/shop4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tent1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tree1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tree2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tree3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tree4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tree5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/tree6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/user/Desktop/all tiles/bigmap/tsx",
+    "last.imagePath": "C:/Users/user/Desktop",
+    "map.height": 500,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 500,
+    "openFiles": [
+        "tmx/test64.tmx",
+        "tsx/64house1.tsx",
+        "tsx/64house8.tsx",
+        "tsx/64newshop1.tsx",
+        "tsx/64Wooden2.tsx",
+        "tsx/64tree1.tsx",
+        "tsx/64rock8.tsx",
+        "tsx/bigTile.tsx",
+        "tsx/64Wooden5.tsx",
+        "tsx/64house2.tsx",
+        "tsx/64house3.tsx",
+        "tsx/64house4.tsx",
+        "tsx/64house6.tsx",
+        "tsx/64house7.tsx",
+        "tsx/64shop2.tsx",
+        "tsx/64shop3.tsx",
+        "tsx/64shop4.tsx",
+        "tsx/64Well1.tsx",
+        "tsx/64Well2.tsx",
+        "tsx/64chest1.tsx",
+        "tsx/64Campfire.tsx",
+        "tsx/64tent1.tsx",
+        "tsx/64rock7.tsx",
+        "tsx/64tree5.tsx",
+        "tsx/64tree6.tsx",
+        "tsx/64rock18.tsx",
+        "tsx/64rock14.tsx",
+        "tsx/64tree2.tsx",
+        "tsx/64tree3.tsx",
+        "tsx/64tree4.tsx",
+        "tsx/64rock6.tsx",
+        "tmx/big_map.tmx",
+        "tsx/scriptio.tsx",
+        "tsx/scriptio64.tsx"
+    ],
+    "project": "bigmap.tiled-project",
+    "recentFiles": [
+        "tmx/test64.tmx",
+        "tsx/64house1.tsx",
+        "tsx/64house8.tsx",
+        "tsx/64newshop1.tsx",
+        "tsx/64Wooden2.tsx",
+        "tsx/64tree1.tsx",
+        "tsx/64rock8.tsx",
+        "tsx/bigTile.tsx",
+        "tsx/64Wooden5.tsx",
+        "tsx/64house2.tsx",
+        "tsx/64house3.tsx",
+        "tsx/64house4.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
